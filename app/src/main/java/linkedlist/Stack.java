@@ -1,5 +1,3 @@
-package main.java.com.example.Stack;
-
 import java.util.EmptyStackException;
 import java.util.NoSuchElementException;
 
